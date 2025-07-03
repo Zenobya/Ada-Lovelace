@@ -1,7 +1,7 @@
 # 🚀 Site Ada Lovelace - Programaria - Curso Eu Programo 🌐
 
 ## 📍 Sobre o Projeto
-O Site Programaria é um projeto desenvolvido durante o curso da Programaria, com o objetivo de colocar em prática os conhecimentos adquiridos em desenvolvimento web básico.
+O Site Ada Lovelace é um projeto desenvolvido durante o curso da Programaria, com o objetivo de colocar em prática os conhecimentos adquiridos em desenvolvimento web básico.
 
 Este site representa minha jornada de aprendizado, explorando desde a estruturação com HTML, passando pela estilização com CSS, até a adição de interatividade com JavaScript.
 
